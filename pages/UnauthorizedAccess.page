@@ -1,0 +1,5 @@
+<apex:page >
+	
+		<apex:pageMessage summary="You are not allowed to edit leads that are owner by another recruiter" severity="warning" strength="3" />
+	
+</apex:page>
